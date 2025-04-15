@@ -1,9 +1,9 @@
-## Hi, I'm Fabrizio Juarez 👋
+# Hi, I'm Fabrizio Juarez 👋
 <!-- **fabriziojuarez/fabriziojuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h2> About Me </h2>
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/N-fJ0Azh_ykAAAAd/cat-computer.gif" />
+<img align="right" height="220px" width=300px alt="Unicorn" src="https://c.tenor.com/N-fJ0Azh_ykAAAAd/cat-computer.gif" />
 
 - 🔭 I’m currently working on Starbucks as part-time Barista.
   
