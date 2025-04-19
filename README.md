@@ -22,9 +22,6 @@
 <!-- HTML --->
 <a href="https://html.spec.whatwg.org/multipage/"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/> </a> 
-<!-- JAVASCRIPT -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
 <!-- BOOTSTRAP --->
 <a href="https://getbootstrap.com/" target="_blank">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="40" height="40"/> </a>
@@ -34,9 +31,6 @@
 <!-- GIT --->
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> </a>
-<!-- XAMPP --->
-<a href="https://www.apachefriends.org/es/index.html" target="_blank">
-<img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="40" height="40"/></a>
 <!-- POSTGRESQL --->
 <a href="https://www.postgresql.org/" target="_blank">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="git" width="40" height="40"/> </a>
